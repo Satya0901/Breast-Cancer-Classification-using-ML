@@ -1,0 +1,4 @@
+Numpy - for mathematical computing
+Pandas - for data manipulation
+Matplotlib and Seaborn - for data visualization
+Scikit - For importing required machine learning models
